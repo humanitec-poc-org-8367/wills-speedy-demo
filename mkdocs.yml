@@ -1,0 +1,7 @@
+site_name: 'wills-speedy-demo Docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
